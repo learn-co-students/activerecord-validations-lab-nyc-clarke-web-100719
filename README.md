@@ -15,7 +15,7 @@ Add validations to these models such that...
    README lesson. You'll need to refer to the [Rails guide][ar_validations] to
    look up how to use it.
 
-# Custom Validations
+# Ca2ustom Validations
 
 Finally, add a custom validator to `Post` that ensures the title is
 sufficiently clickbait-y. If the title does not contain "Won't Believe",
